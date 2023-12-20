@@ -1,5 +1,4 @@
 <h1>Projeto Instagram</h1>
-<br>
 <h2>Esse foi um projeto feito no Devclub e foi um dos projetos que eu mais gostei.</h2>
 <h3>E abaixo foram uma das tecnologias usadas para criar esse projeto.</h3>
 
